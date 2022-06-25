@@ -1,4 +1,4 @@
-domain: 'scc.github.io.git'
+domain: "scc.github.io.git"
 baseurl: /scc/
 url: ""
 permalink: pretty
